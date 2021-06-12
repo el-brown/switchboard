@@ -1,8 +1,11 @@
 #site {
-
+    background-color: beige;
 }
 
 #header {
+    background-color: black;
+    color: beige;
+    height: 500px;
 
 }
 
@@ -11,9 +14,9 @@
 }
 
 #switchboard {
-
+    text-align: center;
 }
 
 #headernav {
-    
+    background-color: white;
 }
